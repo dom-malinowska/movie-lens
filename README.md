@@ -1,5 +1,3 @@
-Movie lens pySpark test project
-
 # Project details
 
 The aim of the project was to explore PySpark and load sample data into aggregated dataframes.
